@@ -1,0 +1,1 @@
+// Placeholder file for FSD structure. You can add custom pages or SSR handlers here if needed. 
